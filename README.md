@@ -13,6 +13,18 @@
 
 ---
 
+## 🎬 Видео-портфолио
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/Ant19801108/Ant19801108/main/ant_mystik.mp4" poster="https://raw.githubusercontent.com/Ant19801108/Ant19801108/main/poster_ant_mystik.jpg" controls width="360"></video>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ant19801108/Ant19801108/blob/main/ant_mystik.mp4">▶ Смотреть видео (MP4)</a>
+</p>
+
+---
+
 ## 🛠 Что мы делаем
 
 | Услуга | Что это |
